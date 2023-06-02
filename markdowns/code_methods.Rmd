@@ -11,6 +11,13 @@ Josh G. Chenoweth^1qc^, Carlo Colantuoni^2q^, Deborah A. Striegel^1^, Joost Bran
 
 
 ##
+
+^1^ Austere environments Consortium for Enhanced Sepsis Outcomes (ACESO) at Henry M. Jackson Foundation, Bethesda
+
+^2^ Dept. of Neurology at Johns Hopkins School of Medicine, Baltimore
+
+^3^ Dept. of Pathology at Uniformed Services University, Bethesda
+  
 ^q^ Authors contributed equally to this work. 
 
 ^c^ Corresponding author for additional information and with questions.  
@@ -43,9 +50,6 @@ This document contains an example of the code used to analyze data associated wi
 [**[link]**](https://www.bioconductor.org/packages/release/bioc/html/projectR.html) 
 
 * 4. Results are plotted using preferred software.
-
-##
-
 
 
 ##
