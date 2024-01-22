@@ -1,5 +1,5 @@
 ---
-title: "Gene Expression Signatures in Blood that Predict Mortality in a West African Sepsis Cohort Define Host Response Phenotypes"
+title: "_Gene Expression Signatures in Blood that Predict Mortality in a West African Sepsis Cohort Define Host Response Phenotypes_"
 output:
   pdf_document: default
   html_document: default
@@ -7,25 +7,33 @@ output:
 
 AUTHOR LIST:  
 
-Josh G. Chenoweth^1qc^, Carlo Colantuoni^2q^, Deborah A. Striegel^1^, Joost Brandsma^1^, Rittal Mehta^1^,Paul W. Blair^1,3^, Subramaniam Krishnan^1^, Pavol Genzor^1^, Michael Considine^4^, Leslie Cope^4^,Audrey C. Knight^2^, Anissa Elayadi^1^, Anne Fox^5^, Ronna Hertzano^6,7^, Andrew G. Letizia^5^, AlexOwusu-Ofori^8,9^, Daniel Ansong^10,11^, George Oduro^12^, Kevin L. Schully^13^, Danielle V. Clark^1^
+Josh G. Chenoweth^1qc^, Carlo Colantuoni^2q^, Deborah A. Striegel^1^, Pavol Genzor^1^, Joost Brandsma^1^, Paul W. Blair^1,3^, Subramaniam Krishnan^1^, Elizabeth Chiyka^1^, Mehran Fazli^1^, Rittal Mehta^1^, Michael Considine^4^, Leslie Cope^4^, Audrey C. Knight^2^, Anissa Elayadi^1^, Anne Fox^5^, Ronna Hertzano^6,7^, Andrew G. Letizia^5^, Alex Owusu-Ofori^8,9^, Isaac Boakye^10^, Albert A. Aduboffour^8^, Daniel Ansong^11,12^, Eno Biney^13^, George Oduro^13^, Kevin L. Schully^14^, Danielle V. Clark^1^.
 
+####
 
-##
-
-^1^ Austere environments Consortium for Enhanced Sepsis Outcomes (ACESO) at Henry M. Jackson Foundation, Bethesda
-
-^2^ Dept. of Neurology at Johns Hopkins School of Medicine, Baltimore
-
-^3^ Dept. of Pathology at Uniformed Services University, Bethesda
+^1^Austere environments Consortium for Enhanced Sepsis Outcomes (ACESO), The Henry M. Jackson Foundation for the Advancement of Military Medicine, Inc., Bethesda, Maryland, USA.  
+^2^Department of Neurology, Johns Hopkins School of Medicine, Baltimore, MD, USA.  
+^3^Department of Pathology, Uniformed Services University, Bethesda, MD.  
+^4^Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD.  
+^5^Naval Medical Research Unit EURAFCENT Ghana detachment, Accra, Ghana.  
+^6^Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, USA.  
+^7^Departments of Otorhinolaryngology Head and Neck Surgery, Anatomy and Neurobiology, University of Maryland School of Medicine, Baltimore, MD, USA.  
+^8^Laboratory Services Directorate, Komfo Anokye Teaching Hospital (KATH), Kumasi, Ghana.  
+^9^Department of Clinical Microbiology, Kwame Nkrumah University of Science and Technology (KNUST), Ghana.  
+^10^Research and Development Unit, KATH, Kumasi, Ghana.  
+^11^Child Health Directorate, KATH, Kumasi, Ghana.  
+^12^Department of Child Health, KNUST, Kumasi, Ghana.  
+^13^Accident and Emergency Department, KATH, Kumasi, Ghana.  
+^14^Austere environments Consortium for Enhanced Sepsis Outcomes (ACESO), Biological Defense Research Directorate, Naval Medical Research Command-Frederick, Ft. Detrick, Maryland, USA.  
   
-^q^ Authors contributed equally to this work. 
+  
+__These authors contributed equally:__ Josh G. Chenoweth and Carlo Colantuoni
+  
+####
 
-^c^ Corresponding author for additional information and with questions.  
-
-##
-Compiled by: __Pavol Genzor__ 
-
-Date: __May 26th, 2023__
+Compiled by: __Pavol Genzor__  
+Date: __January 22nd, 2024__  
+Version: V2
 
 ##
 ### Summary 
